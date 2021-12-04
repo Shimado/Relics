@@ -1,0 +1,10 @@
+name: Relics
+version: ${project.version}
+author: MyShimado
+main: org.shimado.relics.MainRelics
+api-version: 1.13
+commands:
+  relics:
+    usage: /relics
+    permission: relics.shop
+    description: 'Opens a menu where you can take any relic'
